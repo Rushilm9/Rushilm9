@@ -31,7 +31,7 @@ Only distinct, non-overlapping projects are featured here.
 
 | Credential | Issuer | Issued |
 | --- | --- | --- |
-| **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/rushilmehta-3798/DE31DEBCD28CCA26?sharingId=EAA438257D7C1675)** | Microsoft | Jul 2026 |
+| **[Microsoft Certified: Azure AI Fundamentals (AI-901)](https://learn.microsoft.com/api/credentials/share/en-us/rushilmehta-3798/DE31DEBCD28CCA26?sharingId=EAA438257D7C1675)** | Microsoft | Jul 2026 |
 | **[e-Yantra Summer Internship](https://drive.google.com/file/d/1vvA4dgElsz42QSmXxMygmK7B7NxfhP_e/view?usp=sharing)** | e-Yantra, IIT Bombay | Jul 2023 |
 | **[Best Technical Presentation](https://drive.google.com/file/d/176NFzw7D6cbs94RoMZdpfaI7c0c0C2zt/view?usp=share_link)** | e-Yantra, IIT Bombay | Apr 2023 |
 | **[Certificate of Completion](https://drive.google.com/file/d/1nzIJOL9sv1kj_WCX_CBjWqHTglUmsfY_/view?usp=sharing)** | e-Yantra, IIT Bombay | Apr 2023 |
