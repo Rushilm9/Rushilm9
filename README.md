@@ -45,18 +45,6 @@ Only distinct, non-overlapping projects are featured here.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=Rushilm9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Rushilm9&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rushilm9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
 ---
 
 <div align="center">
