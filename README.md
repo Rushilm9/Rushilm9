@@ -9,6 +9,12 @@ I turn language models, real-world data, and external APIs into useful productsâ
 <a href="https://www.linkedin.com/in/rushil-mehta-b0126121b/"><img src="https://img.shields.io/badge/LinkedIn-Rushil_Mehta-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Rushil Mehta on LinkedIn"></a>
 <a href="https://github.com/Rushilm9"><img src="https://komarev.com/ghpvc/?username=Rushilm9&amp;label=Profile%20Views&amp;color=0A66C2&amp;style=for-the-badge" alt="Rushil Mehta profile views"></a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/30%2B-AI_Agents_Built-6C63FF?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="30+ AI Agents Built">
+<img src="https://img.shields.io/badge/5-Featured_AI_Projects-00A67E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="5 Featured AI Projects">
+<img src="https://img.shields.io/badge/AI--901-Microsoft_Certified-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft AI-901 Certified">
+
 </div>
 
 ## ðŸ’« About Me
