@@ -13,6 +13,7 @@ I turn language models, real-world data, and external APIs into useful products�
 <img src="https://img.shields.io/badge/30%2B-AI_Agents_Built-6C63FF?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="30+ AI Agents Built">
 <img src="https://img.shields.io/badge/5-Featured_AI_Projects-00A67E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="5 Featured AI Projects">
 <img src="https://img.shields.io/badge/AI--901-Microsoft_Certified-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft AI-901 Certified">
+<img src="https://img.shields.io/badge/1-Research_Paper_Published-B31B1B?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="1 Research Paper Published">
 
 </div>
 
@@ -70,6 +71,20 @@ Only distinct, non-overlapping projects are featured here.
 | **[Donna Business Agent](https://github.com/Rushilm9/Dona-Agent)** | A natural-language business assistant for email, calendars, Teams, contacts, tasks, and conversational analysis of PDF, Excel, and CSV files. | Python, FastAPI, LangChain, Azure OpenAI, Microsoft Graph, Azure Document Intelligence |
 | **[OmniDesk](https://github.com/Rushilm9/ithack)** | Unifies commerce conversations, AI-assisted product discovery, order handling, customer records, and operational analytics in one workspace. | React, TypeScript, FastAPI, Azure OpenAI, SQLAlchemy, Supabase |
 | **[SEO Keyword Toolkit](https://github.com/Rushilm9/seo-main)** | Extracts and deduplicates keywords, enriches them with search-volume and intent data, and applies AI-assisted relevance checks. | Python, Streamlit, Azure OpenAI, SEMrush, Tavily, pandas |
+
+## 📄 Research Publication
+
+### [An Intelligent AI Research Agent for Keyword Generation, Paper Discovery, and Review Synthesis](https://www.irjmets.com/paperdetail.php?paperId=12e356576edc41e210bc3e7e04eceaeb)
+
+*International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)* · **Published Dec 30, 2025** · ISSN 2582-5208
+
+An LLM-powered research assistant that automates keyword generation, scholarly paper discovery, summarization, evaluation, and literature-review synthesis in one workflow—reducing manual research effort and helping researchers produce academic reviews more efficiently.
+
+**Authors:** Hardik Anawala · Rushil Mehta · Dr. Parul Patel · Dr. Shailesh Chaudhari
+
+[![Open Access Paper](https://img.shields.io/badge/Open_Access-View_Paper-2E8B57?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white)](https://www.irjmets.com/paperdetail.php?paperId=12e356576edc41e210bc3e7e04eceaeb)
+[![Download PDF](https://img.shields.io/badge/PDF-Download_Paper-B31B1B?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white)](https://www.irjmets.com/upload_newfiles/irjmets71200178486/paper_file/irjmets71200178486.pdf)
+[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Read_Publication_Post-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/posts/rushil-mehta-b0126121b_certificate-of-publication-activity-7414221543620354048-qpED)
 
 ## 🏅 Certifications & Recognition
 
