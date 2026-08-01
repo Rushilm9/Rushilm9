@@ -23,6 +23,9 @@ Only distinct, non-overlapping projects are featured here.
 | --- | --- | --- |
 | **[Cloud9 Stratos](https://github.com/Rushilm9/Cloud9-Stratos-Automated-Scouting-Intelligence)** | Turns live esports data into opponent profiles, player threat matrices, matchup analysis, counter-strategies, and coach-ready PDF scouting reports. | Python, FastAPI, LangChain, Azure OpenAI, GRID API, pandas, FPDF |
 | **[i-Smart ScholAR](https://github.com/Rushilm9/DevDash26-iSmart-Scholar)** | An end-to-end academic research workspace for paper discovery, relevance ranking, PDF analysis, synthesis, and literature-review export. | React, TypeScript, FastAPI, LangChain, Azure OpenAI, OpenAlex, MySQL |
+| **[Donna Business Agent](https://github.com/Rushilm9/Dona-Agent)** | A natural-language business assistant for email, calendars, Teams, contacts, tasks, and conversational analysis of PDF, Excel, and CSV files. | Python, FastAPI, LangChain, Azure OpenAI, Microsoft Graph, Azure Document Intelligence |
+| **[OmniDesk](https://github.com/Rushilm9/ithack)** | Unifies commerce conversations, AI-assisted product discovery, order handling, customer records, and operational analytics in one workspace. | React, TypeScript, FastAPI, Azure OpenAI, SQLAlchemy, Supabase |
+| **[SEO Keyword Toolkit](https://github.com/Rushilm9/seo-main)** | Extracts and deduplicates keywords, enriches them with search-volume and intent data, and applies AI-assisted relevance checks. | Python, Streamlit, Azure OpenAI, SEMrush, Tavily, pandas |
 
 ## 💻 Tech Stack
 
