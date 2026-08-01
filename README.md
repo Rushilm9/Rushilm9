@@ -78,9 +78,9 @@ Only distinct, non-overlapping projects are featured here.
 
 *International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)* · **Published Dec 30, 2025** · ISSN 2582-5208
 
-An LLM-powered research assistant that automates keyword generation, scholarly paper discovery, summarization, evaluation, and literature-review synthesis in one workflow—reducing manual research effort and helping researchers produce academic reviews more efficiently.
+An LLM-powered research assistant for keyword generation, paper discovery, and literature-review synthesis.
 
-**Authors:** Hardik Anawala · Rushil Mehta · Dr. Parul Patel · Dr. Shailesh Chaudhari
+**Co-author:** Rushil Mehta
 
 [![Open Access Paper](https://img.shields.io/badge/Open_Access-View_Paper-2E8B57?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white)](https://www.irjmets.com/paperdetail.php?paperId=12e356576edc41e210bc3e7e04eceaeb)
 [![Download PDF](https://img.shields.io/badge/PDF-Download_Paper-B31B1B?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white)](https://www.irjmets.com/upload_newfiles/irjmets71200178486/paper_file/irjmets71200178486.pdf)
