@@ -7,7 +7,6 @@
 I turn language models, real-world data, and external APIs into useful products—from research workflows to decision-support systems.
 
 <a href="https://www.linkedin.com/in/rushil-mehta-b0126121b/"><img src="https://img.shields.io/badge/LinkedIn-Rushil_Mehta-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Rushil Mehta on LinkedIn"></a>
-<a href="https://github.com/Rushilm9"><img src="https://komarev.com/ghpvc/?username=Rushilm9&amp;label=Profile%20Views&amp;color=0A66C2&amp;style=for-the-badge" alt="Rushil Mehta profile views"></a>
 
 <br><br>
 
